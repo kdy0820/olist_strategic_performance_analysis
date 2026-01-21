@@ -17,4 +17,4 @@ How can Olist leverage its regional logistics performance and customer behavior 
 
 ### External Links ###
 
-- An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/keith.herrick.dy/viz/olist_dashboard_2026/Dashboard1).
+- An interactive Tableau dashboard used to report and explore sales trends can be found [here]().
