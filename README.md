@@ -3,7 +3,7 @@
 # Project Background
 Founded in 2014 in Curitiba, Brazil, Olist operates as a dominant SaaS-enabled marketplace integrator, providing the critical "pipes and platform" infrastructure (Commerce, Logistics, Capital) for over 45,000 small-to-medium Brazilian businesses.
 
-As of 2019, Olist faces a significant SaaS-specific hurdle: Customer Churn. Internal data reveals a "one-and-done" transaction model, with nearly 97% of customers failing to return for a second purchase. As a Data Analyst, my role was to uncover the reasons behind these churn patterns and recommend strategies to guarantee Olist's continued commercial success.
+As of January 2019, Olist faces a significant SaaS-specific hurdle: Customer Churn. Internal data reveals a "one-and-done" transaction model, with nearly 97% of customers failing to return for a second purchase. As a Data Analyst, my role was to uncover the reasons behind these churn patterns and recommend strategies to guarantee Olist's continued commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
